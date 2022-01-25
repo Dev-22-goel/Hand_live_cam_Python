@@ -13,6 +13,7 @@ The following **required** functionality is completed:
 
 * [x] Program can **Analyze user hand movements**
 * [x] Program can **Detect different hand patterns**
+* [x] Program can **display number of fingers on the side of the screen**
 * [x] User can **see the current FPS on the right top of the screen**
 * [x] User can **safely exit the program** 
 
